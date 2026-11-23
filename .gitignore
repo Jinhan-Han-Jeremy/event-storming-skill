@@ -1,0 +1,15 @@
+# OS junk files (blocked by directory safety scans)
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local tooling
+graphify-out/
+.env
+.env.*

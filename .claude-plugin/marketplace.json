@@ -1,0 +1,28 @@
+{
+  "name": "pathcraft",
+  "owner": {
+    "name": "Jinhan Han (pathcraft - Path Creator)",
+    "email": "hanjinhan89@gmail.com"
+  },
+  "metadata": {
+    "description": "Plugins by pathcraft - Path Creator.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "event-storming",
+      "source": "./",
+      "description": "Text-based Event Storming for any software project, with English and Korean skills. Produces flow tables, issues, a feature list, and an estimated domain directory layout.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jinhan Han (pathcraft - Path Creator)",
+        "email": "hanjinhan89@gmail.com"
+      },
+      "homepage": "https://github.com/Jinhan-Han-Jeremy/event-storming-skill",
+      "repository": "https://github.com/Jinhan-Han-Jeremy/event-storming-skill",
+      "license": "MIT",
+      "keywords": ["event-storming", "domain-driven-design", "requirements", "software-architecture"],
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "event-storming",
+  "version": "1.0.0",
+  "description": "Text-based Event Storming for any software project. Fills information gaps with targeted questions, maps the business flow as tables, and surfaces missing pieces, rule conflicts, future risks, a required feature list, and an estimated domain directory layout. Ships with English and Korean skills.",
+  "author": {
+    "name": "Jinhan Han (pathcraft - Path Creator)",
+    "email": "hanjinhan89@gmail.com",
+    "url": "https://github.com/Jinhan-Han-Jeremy"
+  },
+  "homepage": "https://github.com/Jinhan-Han-Jeremy/event-storming-skill",
+  "repository": "https://github.com/Jinhan-Han-Jeremy/event-storming-skill",
+  "license": "MIT",
+  "keywords": [
+    "event-storming",
+    "domain-driven-design",
+    "ddd",
+    "requirements",
+    "software-architecture",
+    "domain-modeling",
+    "planning",
+    "korean"
+  ]
+}
