@@ -7,4 +7,4 @@ All notable changes to this project are documented here. The format follows [Kee
 ### Added
 - `event-storming` skill (English).
 - `event-storming-ko` skill (Korean).
-- Plugin manifest, marketplace manifest, MIT license, privacy policy, and structure validator.
+- Plugin manifest, marketplace manifest, MIT license, and privacy policy.

@@ -57,13 +57,6 @@ Claude fills in what it already knows, asks only the missing questions in one ba
 
 This plugin contains only instructions (Markdown). It runs no code, makes no network requests, and collects, stores, or transmits no data. See [PRIVACY.md](PRIVACY.md).
 
-## Development
-
-```bash
-python scripts/validate_plugin.py
-python -m unittest discover -s tests
-```
-
 ## License
 
 [MIT](LICENSE) © 2026 Jinhan Han (pathcraft - Path Creator)
